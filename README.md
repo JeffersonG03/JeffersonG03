@@ -1,6 +1,6 @@
 # Hi, I’m Jefferson 👋  
 
-🎓 **Computer Science student at UConn** | Minor in Mathematics 
+🎓 **Computer Science student at the University of Connecticut** | Minor in Mathematics 
 💻 Passionate about **Front-End Development, Full-Stack Engineering, and UI/UX Design**  
 📈 Strong interest in **fintech & software solutions** that connect technology with business  
 
@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, JavaScript, Java, React  
+- **Programming:** Python, JavaScript, Java, React, C++
 - **Tools:** GitHub, AWS, Microsoft Excel  
 - **Strengths:** Collaboration, Problem Solving, Customer Service, Financial Analysis  
 
